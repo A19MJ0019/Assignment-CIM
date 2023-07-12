@@ -24,6 +24,7 @@ if due_date_match:
 else:
     due_date = None
 
+
 print('Invoice Number:', invoice_number)
 print('Date:', date)
 print('Total Amount Due:', total_amount_due)
